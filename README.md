@@ -41,6 +41,8 @@
 
 ### Блок-схема
 
+<img width="2100" height="1660" alt="lab10_shema" src="https://github.com/user-attachments/assets/056fceaf-e04b-4280-a3ec-75a08f82f6f6" />
+
 
 ## 2. Реализация программы
 
